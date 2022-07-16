@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=Welcome&&fontAlignY=37&fontSize=90&&desc=Minyoung's%20Github%20Profile&descAlignY=55&animation=twinkling)
 
-<h4 align="center">
+<h3 align="center">
 안녕하세요👐<br>
 풀스택 개발자 박민영입니다.<br><br><br>
-</h4>
+</h3>
 
 <h3 align="center">🍽️ Tech Stack 🍽️</h3>
 
