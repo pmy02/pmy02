@@ -27,8 +27,9 @@ The 13th Software Maestro<br><br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"><br><br><br>
 </p>
 
-![pmy02 github stats](https://github-readme-stats.vercel.app/api?username=pmy02&show_icons=true)<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minyo0119)](https://solved.ac/minyo0119/)<br><br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minyo0119)](https://solved.ac/minyo0119/)
+![pmy02 github stats](https://github-readme-stats.vercel.app/api?username=pmy02&show_icons=true)<br><br>
 
 
 <h3 align="center">☎️ Contact ☎️</h3>
