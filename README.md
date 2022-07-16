@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=Welcome&&fontAlignY=37&fontSize=90&&desc=Minyoung's%20Github%20Profile&descAlignY=55&animation=twinkling)
 
+<h4 align="center">
+안녕하세요👐<br>
+풀스택 개발자 박민영입니다.<br><br><br>
+</h4>
+
 <h3 align="center">🍽️ Tech Stack 🍽️</h3>
 
 <p align="center" display="inline-block">
@@ -15,13 +20,14 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-  
-  
-<br><br><br>
+</p>
 
+<br><br><br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minyo0119)](https://solved.ac/minyo0119/)
 ![pmy02 github stats](https://github-readme-stats.vercel.app/api?username=pmy02&show_icons=true)
+
+<br><br>
 
 <h3 align="center">☎️ Contact ☎️</h3>
 
