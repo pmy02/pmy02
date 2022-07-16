@@ -1,10 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=Welcome&&fontAlignY=37&fontSize=90&&desc=Minyoung's%20Github%20Profile&descAlignY=55&animation=twinkling)
 
 
-<p align="center" display="inline-block">
-안녕하세요!<br>
-풀스택 개발자 꿈나무 박민영입니다.<br><br>
-</p>
+<h3 align="center">안녕하세요!<br>풀스택 개발자 꿈나무 박민영입니다.<br><br></h3>
 
 
 <h3 align="center">Career</h3>
