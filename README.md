@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=Welcome&&fontAlignY=37&fontSize=90&&desc=Minyoung's%20Github%20Profile&descAlignY=55&animation=twinkling)
 
 
-<h3 align="center">안녕하세요!<br>풀스택 개발자 꿈나무 박민영입니다.<br><br></h3>
+<h3 align="center">안녕하세요!<br>풀스택 개발자 꿈나무 박민영입니다.😄<br><br></h3>
 
 
 <h3 align="center">Career</h3>
@@ -27,9 +27,8 @@ The 13th Software Maestro<br><br>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"><br><br><br>
 </p>
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minyo0119)](https://solved.ac/minyo0119/)
-![pmy02 github stats](https://github-readme-stats.vercel.app/api?username=pmy02&show_icons=true)<br><br>
+![pmy02 github stats](https://github-readme-stats.vercel.app/api?username=pmy02&show_icons=true)<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minyo0119)](https://solved.ac/minyo0119/)<br><br>
 
 
 <h3 align="center">☎️ Contact ☎️</h3>
