@@ -22,3 +22,11 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minyo0119)](https://solved.ac/minyo0119/)
 ![pmy02 github stats](https://github-readme-stats.vercel.app/api?username=pmy02&show_icons=true)
+
+  
+<h3 align="center">☎️ Contact ☎️</h3>
+<p align="center" display="inline-block">
+  <a href="https://github.com/pmy02" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a> 
+  <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:minyo0119@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=minyo0119@naver.com"/></a>
+</p>
