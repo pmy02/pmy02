@@ -4,7 +4,6 @@
 
 <h3 align="center"><br>안녕하세요!<br>풀스택 개발자 꿈나무 박민영입니다.😄<br><br><br></h3>
 
-
 <h3 align="center">📋 Career 📋</h3>
 <p align="center" display="inline-block">
 Department of Computer Science, Gyeongsang National University<br>
