@@ -6,8 +6,8 @@
 
 <h3 align="center">📋 Career 📋</h3>
 <p align="center" display="inline-block">
-Department of Computer Science, Gyeongsang National University<br>
-The 13th Software Maestro<br><br><br>
+<strong>Department of Computer Science, Gyeongsang National University<br>
+The 13th Software Maestro</strong><br><br><br>
 </p>
 
 
