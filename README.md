@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=300&section=header&text=Welcome&&fontAlignY=37&fontSize=90&&desc=Minyoung's%20Github%20Profile&descAlignY=55&animation=twinkling)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2306A7DB&title_bg=%23163EE3&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/pmy02)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpmy02&count_bg=%2372F2F3&title_bg=%234B7CFF&icon=github.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/pmy02)
 
 <h3 align="center"><br>안녕하세요!<br>풀스택 개발자 꿈나무 박민영입니다.😄<br><br><br></h3>
 
