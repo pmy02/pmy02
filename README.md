@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpmy02&count_bg=%2372F2F3&title_bg=%234B7CFF&icon=github.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/pmy02)
 
-<h3 align="center"><br>안녕하세요 :)<br>AI Engineer 박민영입니다.😄<br><br><br></h3>
+<h3 align="center"><br>안녕하세요 :)<br>AI Engineer 박민영입니다. 😄<br><br><br></h3>
 
 <h3 align="center">📋 Career 📋</h3>
 <p align="center" display="inline-block">
