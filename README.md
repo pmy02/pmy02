@@ -6,7 +6,7 @@
 
 <h3 align="center">📋 Career 📋</h3>
 <p align="center" display="inline-block">
-<strong>Dream2Real - AI Enigneer</strong><br>
+Dream2Real - AI Enigneer<br>
 The 13th Software Maestro<br>
 Department of Computer Science, Gyeongsang National University<br><br><br>
 </p>
