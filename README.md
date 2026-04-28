@@ -27,10 +27,10 @@
 
 | | |
 |:---:|:---|
-| 🏢 | **Dream2Real** — AI Engineer |
-| 🎓 | **The 13th Software Maestro** |
 | ✈️ | **Exchange Student** — San Francisco State University (SFSU) |
-| 📚 | **B.S. in Computer Science and Engineering** — Gyeongsang National University |
+| 📚 | **Computer Science and Engineering** — Gyeongsang National University |
+| 🎓 | **The 13th Software Maestro** |
+| 🏢 | **Dream2Real** — AI Engineer Intern |
 
 </div>
 
