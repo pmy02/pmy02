@@ -6,9 +6,10 @@
 
 <h3 align="center">📋 Career 📋</h3>
 <p align="center" display="inline-block">
-Dream2Real - AI Enigneer<br>
+Exchange Student — San Francisco State University (SFSU)<br>
+Computer Science and Engineering, Gyeongsang National University<br>
 The 13th Software Maestro<br>
-Department of Computer Science, Gyeongsang National University<br><br><br>
+Dream2Real - AI Enigneer<br><br><br>
 </p>
 
 
@@ -24,7 +25,6 @@ Department of Computer Science, Gyeongsang National University<br><br><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 </p>
 
 
