@@ -42,15 +42,8 @@ every number in my repos is measured, not imagined.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minyo0119)](https://solved.ac/minyo0119/)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pmy02&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmy02&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-</div>
-
 ## ☎️ Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/pmy02)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minyoung-park-672754237)
-[![Gmail](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:minyo0119@naver.com)
+[![Gmail](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:minyo0119@gmail.com)
