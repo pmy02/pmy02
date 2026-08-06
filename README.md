@@ -27,11 +27,11 @@ every number in my repos is measured, not imagined.
 
 | Project | Description | Highlights |
 |---|---|---|
-| **Cerebral Aneurysm Classification** | Deep-learning classification of cerebral aneurysms from angiography images (SwinV2 + ResNet-18, MedNet) | 🥇 **K-ium Grand Prize (2023)** |
 | **EarShield** | Weakly supervised early detection of voice phishing with a causal-MIL model, validated on real KorCCVi data (klue/roberta-base) | v2.0.0 · bilingual docs + LaTeX paper |
+| **Cerebral Aneurysm Classification** | Deep-learning classification of cerebral aneurysms from angiography images (SwinV2 + ResNet-18, MedNet) | 🥇 **K-ium Grand Prize (2023)** |
 | **MenuNorm** | Korean menu-name standardization: rule engine + TF-IDF canonicalization + 13-category delivery-app classification | ~98% label / ~100% category accuracy on a calibrated hard-track benchmark · pipeline scale ~20M records |
-| **nOOnchi** | Real-time voice-phishing detection service (Software Maestro 13th team project) | Foundation for EarShield |
 | **Classroom Notification** | Campus classroom-notification project refactored from notebooks into an installable Python package with CI | Bilingual READMEs · verified preprocessing |
+| **nOOnchi** | Real-time voice-phishing detection service (Software Maestro 13th team project) | Foundation for EarShield |
 
 ## 📜 Certifications
 
