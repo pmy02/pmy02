@@ -12,7 +12,7 @@ every number in my repos is measured, not imagined.
 
 - B.S. Computer Science & Engineering @ **Gyeongsang National University** (3rd year)
 - Exchange student @ **San Francisco State University** (Fall 2026)
-- Preparing for U.S. graduate study in **autonomous systems & robotics**
+- Preparing for U.S. graduate study in **Computer Vision & Robotics**
 
 ## 📋 Education & Experience
 
