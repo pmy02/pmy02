@@ -10,9 +10,9 @@ AI engineer in training, focused on **computer vision**, **LLMs**, and **autonom
 I like turning research ideas into working, reproducible systems — and doing it honestly:
 every number in my repos is measured, not imagined.
 
-- 🎓 B.S. Computer Science & Engineering @ **Gyeongsang National University** (3rd year)
-- ✈️ Exchange student @ **San Francisco State University** (Fall 2026)
-- 🎯 Preparing for U.S. graduate study in **autonomous systems & robotics**
+- B.S. Computer Science & Engineering @ **Gyeongsang National University** (3rd year)
+- Exchange student @ **San Francisco State University** (Fall 2026)
+- Preparing for U.S. graduate study in **autonomous systems & robotics**
 
 ## 📋 Education & Experience
 
