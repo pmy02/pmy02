@@ -30,7 +30,8 @@ every number in my repos is measured, not imagined.
 ## 📜 Certifications
 
 - **SQLD** (SQL Developer)
-- **Coding Specialist**
+- **COS Pro(Coding Specialist Professional) 1**
+- **DET 105**
 
 ## 🧩 Problem Solving
 
