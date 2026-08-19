@@ -1,9 +1,3 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6F86D6&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Minyoung+Park+%F0%9F%91%8B;CV+%C2%B7+LLMs+%C2%B7+Autonomous+Systems;Always+learning%2C+always+building.)](https://git.io/typing-svg)
-
-</div>
-
 ## 🌱 About Me
 
 AI engineer in training, focused on **computer vision**, **LLMs**, and **autonomous flight**.
